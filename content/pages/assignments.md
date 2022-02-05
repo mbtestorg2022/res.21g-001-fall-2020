@@ -8,12 +8,81 @@ The following assignments consist of questions and / or activities meant to be u
 
 Assignments 1–6 were originally included in the Spring 2016 version. Assignment 7 was added for the Fall 2020 update.
 
-| ASSN # | TOPICS |
-| --- | --- |
-| 1 | [Expectations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn1) |
-| 2 | [Class Evaluations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn2) |
-| 3 | [The First Day (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn3) |
-| 4 | [Introductions (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn4) |
-| 5 | [Introduce Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn5) |
-| 6 | [Evaluate Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn6) |
-| 7 | [Teaching Online (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn7)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Expectations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Class Evaluations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[The First Day (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Introductions (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Introduce Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Evaluate Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Teaching Online (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn7)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
