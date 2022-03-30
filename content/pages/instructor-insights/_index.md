@@ -12,7 +12,7 @@ _The User-friendly Classroom_ video training series was created specifically for
 
 The videos and assignments were created for use with the following courses:
 
-_[21G.232](/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/) / [21G.233](/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/) Advanced Speaking and Critical Listening (ELS)_
+_[21G.232](/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007) / [21G.233](/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007) Advanced Speaking and Critical Listening (ELS)_
 
 _21G.217 / 21G.218 Workshop in Strategies for Effective Teaching (ELS)_
 
